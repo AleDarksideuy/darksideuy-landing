@@ -13,7 +13,7 @@ const slides = [
     description:
       'Un evento que fusiona música, cultura y adrenalina en un solo lugar. La escena urbana encuentra su voz.',
     imageDesktop: '/hero-images/DH2.png',
-    imageMobile: '/hero-images/D2 arreglada.png',
+    imageMobile: '/hero-images/D2new.png',
     buttonText: 'Ver más',
     link: '/underfest',
   },
